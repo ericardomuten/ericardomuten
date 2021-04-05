@@ -11,7 +11,7 @@
 - 🔜 Next month I will be working at [OIST's Quantum Machines Unit](https://groups.oist.jp/qmech).
 - 💼 I previously interned at [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
 - ✨ 2021 Highlights:
-  - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/eraraya-ricardo/qhack-2021-openproject). 🥈
+  - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/eraraya-ricardo/qhack-2021-openproject) 🥈
 
 ## Goals for 2021 🥅
 - 📝 Write quantum machine learning and variational quantum algorithms paper mini-review series in blog format.
