@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**eraraya-ricardo/eraraya-ricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🎓 I recently received my Bachelor of Engineering in Engineering Physics degree from Bandung Institute of Technology.
 - :atom: My main interests are quantum computing and machine learning.
 - 🌱 I’m currently learning ...
