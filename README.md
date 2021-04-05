@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Edo! 👋
 
 - 🎓 I recently received my Bachelor of Engineering in Engineering Physics degree from Bandung Institute of Technology.
 - :atom: My main interests are quantum computing and machine learning.
