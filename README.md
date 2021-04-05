@@ -1,7 +1,8 @@
-### Hello, I'm Edo! 👋
+### Hello, I'm Edo! 👋 🇮🇩
 
 - 🎓 I recently received my Bachelor of Engineering in Engineering Physics degree from Bandung Institute of Technology.
-- :atom: My main interests are quantum computing and machine learning.
+- <img src="https://render.githubusercontent.com/render/math?math=|\Psi \rangle"> I am part of the [Quantum Technology Laboratory](http://qlab.itb.ac.id/index.html) at my university, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
+- :electron: My main interests are quantum computing and machine learning.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
