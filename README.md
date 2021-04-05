@@ -1,10 +1,10 @@
-## Hello, I'm Edo! 👋 🇮🇩
+## Hello, I'm Edo! 👋
 
 ## About Me :man_technologist:
 - :man_student: I recently received my Bachelor of Engineering in Engineering Physics degree from Bandung Institute of Technology.
 - <img src="https://render.githubusercontent.com/render/math?math=|\Psi\text{>}"> I am part of the [Quantum Technology Laboratory](http://qlab.itb.ac.id/index.html) at my university, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
 - :electron:🤖 My main interests are quantum computing and machine learning.
-- <img align="left" alt="Qiskit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" /> I am the first Qiskit Advocate from my country.
+- <img align="left" alt="Qiskit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg"> 🇮🇩 I am the first Qiskit Advocate from my country.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
