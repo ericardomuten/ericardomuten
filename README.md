@@ -8,7 +8,7 @@
 - :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My main field of interests are quantum computing and machine learning, with a side hobby in computational photography and image processing.
 - <img align="center" alt="Qiskit" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg"> 🇮🇩 I'm the first Indonesian [Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).
 - 🔭 I'm currently working on reproducing quantum machine learning research in the [Qiskit Textbook](https://qiskit.org/textbook/content/ch-ex/) for the [Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program).
-- 🔜 Next month I will be working at [OIST's Quantum Machines Unit](https://groups.oist.jp/qmech).
+<!-- - 🔜 Next month I will be working at [OIST's Quantum Machines Unit](https://groups.oist.jp/qmech). -->
 - 💼 I previously interned at [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
 - ✨ 2021 Highlights:
   - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/eraraya-ricardo/qhack-2021-openproject) 🥈
