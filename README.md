@@ -21,11 +21,13 @@
 [<img align="left" alt="email | Email" width="22px" src="https://www.svgrepo.com/show/32285/email.svg" />][email]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="personal page | Website" width="22px" src="https://pic.onlinewebfonts.com/svg/img_529063.png" />][personal page]
 
 
 [twitter]: https://twitter.com/eraraya_ricardo
 [linkedin]: https://www.linkedin.com/in/e-ricardo/
 [email]: mailto:erarayaricardo.m@students.itb.ac.id
+[personal page]: https://eraraya-ricardo.me/
 
 
 <!---
