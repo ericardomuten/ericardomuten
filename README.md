@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social)](https://github.com/eraraya-ricardo)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo)
 
-## About Me :man_technologist:
+## [About Me](https://eraraya-ricardo.me/) :man_technologist:
 - :man_student: I recently received my B.Eng. in Engineering Physics from Bandung Institute of Technology.
 - <img src="https://render.githubusercontent.com/render/math?math=|\Psi\text{>}"> I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at my university, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
 - :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My field of interests are quantum computing and machine learning, with side hobbies in computational photography and image processing.
