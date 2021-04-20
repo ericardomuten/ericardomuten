@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo)
 
 ## [About Me](https://eraraya-ricardo.me/) :man_technologist:
-- :man_student: I recently received my B.Eng. in Engineering Physics from Bandung Institute of Technology.
+- :man_student: I recently received my BSc in Engineering Physics from Bandung Institute of Technology.
 - <img src="https://render.githubusercontent.com/render/math?math=|\Psi\text{>}"> I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at my university, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
 - :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My field of interests are quantum computing and machine learning, with side hobbies in computational photography and image processing.
 - <img align="center" alt="Qiskit" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg"> 🇮🇩 I'm the first Indonesian [Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).
