@@ -21,7 +21,7 @@
 [<img align="left" alt="email | Email" width="100px" src="https://img.shields.io/badge/Email-4A154B?style=for-the-badge&logo=minutemailer&logoColor=white" />][email]
 [<img align="left" alt="linkedin | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="personal page | Website" width="30px" src="https://pic.onlinewebfonts.com/svg/img_529063.png" />][personal page]
+[<img align="left" alt="personal page | Webpage" width="100px" src="https://img.shields.io/badge/Webpage-4A154B?style=for-the-badge&logo=minutemailer&logoColor=white" />][personal page]
 
 
 [twitter]: https://twitter.com/eraraya_ricardo
