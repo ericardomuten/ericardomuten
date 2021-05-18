@@ -19,10 +19,10 @@
 - 🔬💻 Contribute more to the quantum computing research and open-source community.
 
 ## Get in Touch ☕
-[<img align="left" alt="email | Email" width="80px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" />][email]
+[<img align="left" alt="email | Email" width="75px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" />][email]
 [<img align="left" alt="linkedin | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="personal page | Webpage" width="90px" src="https://img.shields.io/badge/Webpage-4A154B?style=for-the-badge" />][personal page]
+[<img align="left" alt="personal page | Webpage" width="85px" src="https://img.shields.io/badge/Webpage-4A154B?style=for-the-badge" />][personal page]
 
 
 [twitter]: https://twitter.com/eraraya_ricardo
