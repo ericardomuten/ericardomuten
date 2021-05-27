@@ -26,7 +26,7 @@
 
 
 [twitter]: https://twitter.com/eraraya_ricardo
-[linkedin]: https://www.linkedin.com/in/e-ricardo/
+[linkedin]: https://www.linkedin.com/in/eraraya-ricardo/
 [email]: mailto:erarayaricardo.m@students.itb.ac.id
 [personal page]: https://eraraya-ricardo.me/
 
