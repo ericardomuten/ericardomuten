@@ -1,7 +1,7 @@
 ## Hello, I'm Edo! 👋 🇮🇩
 [![Github](https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social)](https://github.com/eraraya-ricardo)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo)
-![](https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/qp-mle-black.png)
+![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
 ## [About Me](https://eraraya-ricardo.me/) :man_technologist:
 - :man_student: I recently received my B.S. in Engineering Physics from Bandung Institute of Technology.
 - <img src="https://render.githubusercontent.com/render/math?math=|\Psi\text{>}"> I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at my university, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
