@@ -42,9 +42,15 @@ https://img.shields.io/badge/CV-8964bd?style=for-the-badge
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="personal page | Website" width="30px" src="https://pic.onlinewebfonts.com/svg/img_529063.png" />][personal page]
+
+Useful web:
+Custom badge logo tutorial: https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges
+Image to base64: https://b64.io/
+Base64 string to percent-encoding: https://meyerweb.com/eric/tools/dencoder/
+Image editing tool: https://www.iloveimg.com/
 --->
 
 <!---
 Image credit:
-CV/resume png source: https://pngtree.com/freepng/vector-resume-icon_4260240.html, designed by Grafix Point.
+CV/resume png source: https://pngtree.com/freepng/vector-resume-icon_4260240.html, designed by Grafix Point, web clipart png from pngtree.com.
 --->
