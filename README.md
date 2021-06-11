@@ -8,8 +8,10 @@
 - :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My field of interests are quantum computing and machine learning, with side hobbies in computational photography and image processing.
 - <img align="center" alt="Qiskit" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).
 - 📃 Experience
-  - 🔭 I'm currently working on reproducing quantum machine learning research in the [Qiskit Textbook](https://qiskit.org/textbook/content/ch-ex/) for the [Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program).
-  - 🔜 For the next several months, I will be working with the [CERN's quantum team](https://openlab.cern/quantum) as part of the [CERN openlab Summer Student Programme 2021](https://openlab.cern/education) and with [ML4Sci](https://ml4sci.org/) as part of the [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5612096894533632). Both projects will revolve around quantum machine learning applications in high-energy physics.
+  - 🔭 I'm currently working on:
+    - Developing Quantum Generative Adversarial Networks algorithm to simulate the <img src="https://render.githubusercontent.com/render/math?math=t\bar{t}H"> production processes in the LHC experiment as part of the [CERN openlab Summer Student Programme](https://openlab.cern/education).
+    - Researching the potential of Quantum Convolutional Neural Networks in classifying images of particles from high-energy physics events as part of the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#5612096894533632) under [ML4Sci](https://ml4sci.org/).
+    - Reproducing quantum machine learning research in the [Qiskit Textbook](https://qiskit.org/textbook/content/ch-ex/) for the [Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program).
   - 💼 I previously interned at [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
 - ✨ 2021 Highlights
   - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/eraraya-ricardo/qhack-2021-openproject) 🥈
