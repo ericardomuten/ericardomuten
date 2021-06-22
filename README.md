@@ -16,7 +16,7 @@
 - ✨ 2021 Highlights
   - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/eraraya-ricardo/qhack-2021-openproject) 🥈
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eraraya-ricardo&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=54455D&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eraraya-ricardo&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=4A154B&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
 
 ## Goals for 2021 🥅
 - 📝 Write quantum machine learning and variational quantum algorithms paper mini-review series in blog format.
@@ -54,7 +54,7 @@ Image editing tool: https://www.iloveimg.com/
 GitHub Stats: https://github.com/anuraghazra/github-readme-stats
 
 Parameters History:
-Website badge bg: 4A154B
+Website badge bg: 4A154B, 54455D
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 --->
