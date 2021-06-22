@@ -51,6 +51,7 @@ Custom badge logo tutorial: https://stackoverflow.com/questions/38985050/how-do-
 Image to base64: https://b64.io/
 Base64 string to percent-encoding: https://meyerweb.com/eric/tools/dencoder/
 Image editing tool: https://www.iloveimg.com/
+GitHub Stats: https://github.com/anuraghazra/github-readme-stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 --->
