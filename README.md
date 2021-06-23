@@ -1,6 +1,9 @@
 <div align="center">
+
 ![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
+
 </div>
+
 [![Github](https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social)](https://github.com/eraraya-ricardo)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo)
 [<img align="right" alt="email | Email" height="30px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAMFBMVEVHcEz7%2B%2FvCwsL6%2Bvr29vb8%2FPzy8vK4uLjq6urY2NjT09Pf39%2Fj4%2BPt7e3n5%2Bf%2F%2F%2F%2FeB6F9AAAAD3RSTlMA4B%2F13hi%2BE48%2BMFhnonryXZ4TAAACYElEQVR42u2VwY6rMBAEbexnCAnJ%2F%2F%2FtE2jVl0qD5B0fVqJvWW2oeKo9pDt37tz5i5mn4ZnTtNXB2aaU1vYZmrbuA5u2kYxt%2BtGylFGIssyy%2Fx5EKe905HmgnnkEIz%2BPQT1T3Q7Ko8Yz6uNgbDXlHzVrG1armrI%2BtWCGfntNVeeKrbIs7JAsQ5FVLov6JMinvAKrrMe9ykcQoH8VDkaQTwmrsqqrzymjDgHVVVkBCaqyrh0gPGdHMHVCQqpc3uqPg2htvnoovAmEBFS5YhCA%2FLrK3E6E9FcZ5fQQ7Oie6j7AMJCurbyYKTuIqny5L9FKPA2Q%2FipnVfc7pJy%2FEGp3dXkSL7L2V9efhFXuqC5PYtOuS%2Bar609iZn3GgDtzEp%2F8UJVPq%2FvAU8xJrFL0H9W9hOTLzW3GoXHqQvWdZNm%2FjiqjGDtq6YW0%2BRhEW79XWX%2BvKxvsIRQyNVtlnVC%2F5hzihSxYG1g7mmvpgOiLapGqjK1brJZzSJtkGw%2FF1oUWC4GQuZmbzfFRi4dQCHcUi0AtDmKFoLKoNLRYCISs9fvlm%2FkypxYPoRCuEb9mqMVDKIQLkQvTawHk2mF5u9UPLR4CIcgyz6qV0%2BIhRgiytcuV6iEU0hFOmhAvxIdaNg%2BhkJ5QCyHZC%2FFxWgiBkAAtgOgfnhTSr0WQOCHUIkigEGoRJEwItBCyUUiMFkEoJE6LIBQSp0WQOCHUIkicEGgRJE4ItAgSJwRaBAkUAi2CxAqBlh0SLQRadgiFBGupCUIi89617BAKidZSE4WEa1nSmtK85GHZezylPf8GJt25c%2BfOHZ%2F%2FpbtqHVuJB5AAAAAASUVORK5CYII%3D" />][email]
