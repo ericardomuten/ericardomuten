@@ -3,8 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo)
 ![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
 ## [About Me](https://eraraya-ricardo.me/) :man_technologist:
-- <img src="https://render.githubusercontent.com/render/math?math=|\Psi\text{>}"> I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at my university, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
-- :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My interests are in quantum computing and machine learning, with side hobbies in computational photography and image processing.
+- :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My interests are in quantum computing and machine learning, with hobbies in computational photography and image processing.
 - <img align="center" alt="Qiskit" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).
 - 📃 Experience
   - 🔭 I'm currently working on:
