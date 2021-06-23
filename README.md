@@ -4,7 +4,7 @@
 ![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
 ## [About Me](https://eraraya-ricardo.me/) :man_technologist:
 - :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My interests: quantum computing and machine learning, with hobbies in computational photography and image processing.
-- <img align="center" alt="Qiskit" width="17px" src="https://systemx.stanford.edu/sites/default/files/styles/profile_full/public/event_images/qiskit-logo.jpg?itok=6E--K0VV"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).
+- <img align="top" alt="Qiskit" width="20px" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).
 - 📃 Experience
   - 🔭 I'm currently working on:
     - Developing Quantum GANs to simulate the <img src="https://render.githubusercontent.com/render/math?math=t\bar{t}H"> production processes in the LHC experiment with [CERN](https://openlab.cern/quantum).
