@@ -3,16 +3,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo)
 ![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
 ## [About Me](https://eraraya-ricardo.me/) :man_technologist:
-- :man_student: I recently received my B.S. in Engineering Physics from Bandung Institute of Technology.
 - <img src="https://render.githubusercontent.com/render/math?math=|\Psi\text{>}"> I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at my university, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
-- :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My field of interests are quantum computing and machine learning, with side hobbies in computational photography and image processing.
+- :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/dnn.png"> My interests are in quantum computing and machine learning, with side hobbies in computational photography and image processing.
 - <img align="center" alt="Qiskit" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).
 - 📃 Experience
   - 🔭 I'm currently working on:
-    - Developing Quantum Generative Adversarial Networks algorithm to simulate the <img src="https://render.githubusercontent.com/render/math?math=t\bar{t}H"> production processes in the LHC experiment as part of the [CERN openlab Summer Student Programme](https://openlab.cern/education).
-    - Researching the potential of Quantum Convolutional Neural Networks in classifying images of particles from high-energy physics events as part of the [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#5612096894533632) under [ML4Sci](https://ml4sci.org/).
-    - Reproducing quantum machine learning research in the [Qiskit Textbook](https://qiskit.org/textbook/content/ch-ex/) for the [Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program).
-  - 💼 I previously interned at [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
+    - Developing Quantum GANs to simulate the <img src="https://render.githubusercontent.com/render/math?math=t\bar{t}H"> production processes in the LHC experiment with [CERN](https://openlab.cern/quantum).
+    - Researching the potential of Quantum CNN in classifying images of particles from HEP events as part of the [GSoC'21](https://summerofcode.withgoogle.com/projects/#5612096894533632) under [ML4Sci](https://ml4sci.org/).
+    - Making a chapter for the [Qiskit Textbook](https://qiskit.org/textbook/content/ch-ex/) about [Quantum GNN](https://arxiv.org/abs/1909.12264) for the [Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program).
+  - 💼 I previously interned at [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects. I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
 - ✨ 2021 Highlights
   - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/eraraya-ricardo/qhack-2021-openproject) 🥈
 
@@ -46,6 +45,9 @@ minutemailer&logoColor=white
 [<img align="left" alt="twitter | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="personal page | Website" width="30px" src="https://pic.onlinewebfonts.com/svg/img_529063.png" />][personal page]
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://render.githubusercontent.com/render/math?math=|\Psi\text{>}">
+
 Useful Web:
 Custom badge logo tutorial: https://stackoverflow.com/questions/38985050/how-do-i-use-the-logo-option-in-shields-io-badges
 Image to base64: https://b64.io/
@@ -55,8 +57,6 @@ GitHub Stats: https://github.com/anuraghazra/github-readme-stats
 
 Parameters History:
 Website badge bg: 4A154B, 54455D
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
 <!---
