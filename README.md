@@ -1,7 +1,12 @@
-## Hello, I'm Edo!<img align="top" alt="dnn" width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> 🇮🇩
+<div align="center">
+![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
 [![Github](https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social)](https://github.com/eraraya-ricardo)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo)
-![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
+</div>
+
+---
+
+## Hello, I'm Edo!<img align="top" alt="dnn" width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> 🇮🇩
 ## [About Me](https://eraraya-ricardo.me/) :man_technologist:
 - :electron: <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/assets/dnn.png"> My interests: quantum computing and machine learning, with hobbies in computational photography and image processing.
 - <img align="top" alt="Qiskit" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/assets/qiskit.jpg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).
