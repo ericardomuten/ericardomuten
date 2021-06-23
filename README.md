@@ -1,4 +1,4 @@
-## Hello, I'm Edo! 👋 🇮🇩
+## Hello, I'm Edo!<img align="top" alt="dnn" width="20px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> 🇮🇩
 [![Github](https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social)](https://github.com/eraraya-ricardo)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo)
 ![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
@@ -8,7 +8,7 @@
 - 📃 Experience
   - 🔭 I'm currently working on:
     - Developing Quantum GANs to simulate the <img src="https://render.githubusercontent.com/render/math?math=t\bar{t}H"> production processes in the LHC experiment with [CERN](https://openlab.cern/quantum).
-    - Researching the potential of Quantum CNN in classifying images of particles from HEP events as part of the [GSoC'21](https://summerofcode.withgoogle.com/projects/#5612096894533632) under [ML4Sci](https://ml4sci.org/).
+    - Researching the Quantum CNN potential in classifying images of particles from HEP events as part of [GSoC'21](https://summerofcode.withgoogle.com/projects/#5612096894533632) under [ML4Sci](https://ml4sci.org/).
     - Making a chapter for the [Qiskit Textbook](https://qiskit.org/textbook/content/ch-ex/) about [Quantum GNN](https://arxiv.org/abs/1909.12264) for the [Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program).
   - 💼 I previously interned at [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects. I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
 - ✨ 2021 Highlights
