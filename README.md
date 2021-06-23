@@ -1,4 +1,4 @@
-## Hello, I'm Edo!<img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+## Hello, I'm Edo! <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 <div align="center">
   
 ![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
