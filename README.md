@@ -1,6 +1,8 @@
-<p align="right">
-<span href="https://github.com/eraraya-ricardo" target="_blank"><img align="left" src="https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social" /></span><span><img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo" /></span></p>
 ## Hello, I'm Edo! <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+
+<p align="right">
+<span href="https://github.com/eraraya-ricardo" target="_blank"><img src="https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social" /></span><span><img src="https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo" /></span></p>
+
 <div align="center">
   
 ![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
