@@ -20,6 +20,8 @@
   - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/eraraya-ricardo/qhack-2021-openproject) 🥈
 
 ## Tools & Stats
+- Quantum Programming Frameworks
+    <img alt="Qiskit" height="23px" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" />
 - Programming Frameworks<br>
     <img alt="TensorFlow" height="23px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="Keras" height="23px" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="PyTorch" height="23px" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img alt="scikit-learn" height="23px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img alt="OpenCV" height="23px" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 - Programming Languages & Operating System<br>
