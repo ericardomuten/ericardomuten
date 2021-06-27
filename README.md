@@ -6,7 +6,7 @@
   
 </div>
 
-<a href="https://github.com/eraraya-ricardo" target="_blank"><img src="https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social" /></a><a><img src="https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo" /></a>
+<a href="https://github.com/eraraya-ricardo" target="_blank"><img src="https://img.shields.io/github/followers/eraraya-ricardo?label=Follow&style=social" /></a> <a><img src="https://visitor-badge.laobi.icu/badge?page_id=eraraya-ricardo.eraraya-ricardo" /></a>
 
 - ⚛️ <img align="top" alt="dnn" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/assets/dnn.png"> Interests: quantum computing and machine learning, with hobbies in computational photography and image processing.<br>
 - <img align="top" alt="Qiskit" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/assets/qiskit.jpg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).<br>
