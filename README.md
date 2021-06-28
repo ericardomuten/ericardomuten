@@ -93,7 +93,8 @@ Custom badge logo tutorial: https://stackoverflow.com/questions/38985050/how-do-
 Image to base64: https://b64.io/
 Base64 string to percent-encoding: https://meyerweb.com/eric/tools/dencoder/
 Image editing tool: https://www.iloveimg.com/
-GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+GitHub stats badge: https://github.com/anuraghazra/github-readme-stats
+Color picker from image: https://imagecolorpicker.com/
 
 Parameters History:
 Website badge bg: 4A154B, 54455D
