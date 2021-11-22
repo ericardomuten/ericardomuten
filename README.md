@@ -12,10 +12,11 @@
 - <img align="top" alt="Qiskit" width="20px" src="https://github.com/eraraya-ricardo/eraraya-ricardo/blob/main/assets/qiskit.jpg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).<br>
 - 📃 Experience
   - 🔭 I'm currently working on:
-    - Developing Quantum GANs to simulate the *ttH* production processes in the LHC experiment with [CERN](https://openlab.cern/quantum).
-    - Researching the Quantum CNN potential in classifying images of particles from HEP events as part of [GSoC'21](https://summerofcode.withgoogle.com/projects/#5612096894533632) under [ML4Sci](https://ml4sci.org/).
-    - Making a chapter for the [Qiskit Textbook](https://qiskit.org/textbook/content/ch-ex/) about [Quantum GNN](https://arxiv.org/abs/1909.12264) for the [Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program).
-  - 💼 I previously interned at [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects. I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
+    - Developing a novel Monte Carlo simulation with epistemically-restricted phase-space representation for quantum many-body systems with the quantum group at the [Indonesian National Research and Innovation Agency](https://www.brin.go.id/).
+  - 💼 I previously interned at
+    - [ML4Sci](https://ml4sci.org/) (as part of [Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/4853064678244352/)), [CERN](https://openlab.cern/quantum), and [IBM Quantum Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program) where I worked on quantum machine learning projects.
+    - [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
+  - I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
 - ✨ 2021 Highlights
   - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/eraraya-ricardo/qhack-2021-openproject) 🥈
 
