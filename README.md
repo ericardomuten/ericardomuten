@@ -13,7 +13,7 @@
 - 📃 Experience
   - 🔭 I'm currently working on:
     - Developing a novel Monte Carlo simulation with epistemically-restricted phase-space representation for quantum many-body systems with the quantum group at the [Indonesian National Research and Innovation Agency](https://www.brin.go.id/).
-  - 💼 I previously interned at
+  - 💼 I previously interned at:
     - [ML4Sci](https://ml4sci.org/) ([Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/4853064678244352/)), [CERN](https://openlab.cern/quantum), and [IBM Quantum Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program) where I worked on quantum machine learning projects.
     - [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
   - I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/eraraya-ricardo/quantum_image_classifier).
