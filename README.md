@@ -2,23 +2,23 @@
 
 <div align="center">
   
-![](https://github.com/ericardom/profile-page/blob/master/assets/media/qp_mle_img.png)
+![](https://github.com/ericardomuten/profile-page/blob/master/assets/media/qp_mle_img.png)
   
 </div>
 
-<a href="https://github.com/ericardom" target="_blank"><img src="https://img.shields.io/github/followers/ericardom?label=Follow&style=social" /></a> <a><img src="https://visitor-badge.laobi.icu/badge?page_id=ericardom.ericardom" /></a>
+<a href="https://github.com/ericardomuten" target="_blank"><img src="https://img.shields.io/github/followers/ericardomuten?label=Follow&style=social" /></a> <a><img src="https://visitor-badge.laobi.icu/badge?page_id=ericardomuten.ericardomuten" /></a>
 
-- ⚛️ <img align="top" alt="dnn" width="20px" src="https://github.com/ericardom/ericardom/blob/main/assets/dnn.png"> Interests: quantum computing and machine learning, with hobbies in computational photography and image processing.<br>
-- <img align="top" alt="Qiskit" width="20px" src="https://github.com/ericardom/ericardom/blob/main/assets/qiskit.jpg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).<br>
+- ⚛️ <img align="top" alt="dnn" width="20px" src="https://github.com/ericardomuten/ericardomuten/blob/main/assets/dnn.png"> Interests: quantum computing and machine learning, with hobbies in computational photography and image processing.<br>
+- <img align="top" alt="Qiskit" width="20px" src="https://github.com/ericardomuten/ericardomuten/blob/main/assets/qiskit.jpg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).<br>
 - 📃 Experience
   - 🔭 I'm currently working on:
     - Developing a novel Monte Carlo simulation with epistemically-restricted phase-space representation for quantum many-body systems with the quantum group at the [Indonesian National Research and Innovation Agency](https://www.brin.go.id/).
   - 💼 I previously interned at:
     - [ML4Sci](https://ml4sci.org/) ([Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/4853064678244352/)), [CERN](https://openlab.cern/quantum), and [IBM Quantum Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program) where I worked on quantum machine learning projects.
     - [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
-  - I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/ericardom/quantum_image_classifier).
+  - I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/ericardomuten/quantum_image_classifier).
 - ✨ 2021 Highlights
-  - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/ericardom/qhack-2021-openproject) 🥈
+  - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/ericardomuten/qhack-2021-openproject) 🥈
 
 ## Tools & Stats 🛠️
 - Quantum Programming Frameworks and Libraries<br>
