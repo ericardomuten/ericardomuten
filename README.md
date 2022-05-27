@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png)
+![](https://github.com/ericardom/profile-page/blob/master/assets/media/qp_mle_img.png)
   
 </div>
 
