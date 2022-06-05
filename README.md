@@ -1,4 +1,4 @@
-## Hello, I'm Edo! <img alt="hi" width="10" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+## Hello, I'm Edo! <img alt="hi" width="50" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <div align="center">
   
