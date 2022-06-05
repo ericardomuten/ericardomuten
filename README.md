@@ -52,15 +52,13 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eraraya-ricardo&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=4A154B&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericardomuten&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=4A154B&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
 
 </div>
 
-<!---
 ## Goals for 2021 🥅
 - 📝 Write quantum machine learning and variational quantum algorithms paper mini-review series in blog format.
 - 🔬💻 Contribute more to the quantum computing research and open-source community.
---->  
 
 ## Get in Touch ☕
 
