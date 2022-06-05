@@ -1,4 +1,4 @@
-## Hello, I'm Edo! <img align="top" alt="hi" width="1px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+## Hello, I'm Edo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <div align="center">
   
@@ -18,8 +18,10 @@
     - [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
   - I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/ericardomuten/quantum_image_classifier).
 
+<!---
 - ✨ 2021 Highlights
   - [Runner-up in the Xanadu's QHack Quantum Machine Learning Open Hackathon 2021](https://github.com/ericardomuten/qhack-2021-openproject) 🥈
+--->
 
 ## Tools & Stats 🛠️
 - Quantum Programming Frameworks and Libraries<br>
