@@ -36,9 +36,9 @@
     <a href="https://scikit-learn.org/stable/" target="_blank"><img alt="scikit-learn" height="23px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
     <a href="https://opencv.org/" target="_blank"><img alt="OpenCV" height="23px" src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" /></a>
 - Programming Languages & Operating System<br>
-    <a href="https://www.python.org/" target="_blank"><img alt="Python" height="23px" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="https://www.python.org/" target="_blank"><img alt="Python" height="23px" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
     <img alt="C++" height="23px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="C" height="23px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="C" height="23px" src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="Markdown" height="23px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" height="23px" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /></a>
     <br>
