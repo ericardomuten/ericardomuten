@@ -15,7 +15,7 @@
   - 💼 I previously interned at:
     - [Indonesian National Research and Innovation Agency](https://quantumresearch.id/), [ML4Sci](https://ml4sci.org/) ([Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/4853064678244352/)), [CERN](https://openlab.cern/quantum), and [IBM Quantum Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program) where I worked on quantum machine learning projects.
     - [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
-  - I'm part of the [Quantum Technology Lab](http://qlab.itb.ac.id/index.html) at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/ericardomuten/quantum_image_classifier).
+  - I'm part of the Quantum Technology Lab at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/ericardomuten/quantum_image_classifier).
 
 <!---
 - ✨ 2021 Highlights
