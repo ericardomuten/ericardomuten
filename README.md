@@ -51,7 +51,7 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats-puce-seven-30.vercel.app/api?username=ericardomuten&count_private=true&show_icons=true&title_color=533483&bg_color=1A1A2E&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
+![GitHub stats](https://github-readme-stats-goadgqp7b-ericardomuten.vercel.app/api?username=ericardomuten&count_private=true&show_icons=true&title_color=533483&bg_color=1A1A2E&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
 
 </div>
 
