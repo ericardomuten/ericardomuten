@@ -34,7 +34,7 @@
     <a href="https://keras.io/" target="_blank"><img alt="Keras" height="23px" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>
     <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" height="23px" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
     <a href="https://scikit-learn.org/stable/" target="_blank"><img alt="scikit-learn" height="23px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-    <a href="https://plotly.com/" target="_blank"><img alt="Plotly" height="23px" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" /></a>
+    <a href="https://plotly.com/" target="_blank"><img alt="Plotly & Dash" height="23px" src="https://img.shields.io/badge/PlotlyDash-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" /></a>
     <a href="https://opencv.org/" target="_blank"><img alt="OpenCV" height="23px" src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" /></a>
 - Programming Languages & Operating System<br>
     <a href="https://www.python.org/" target="_blank"><img alt="Python" height="23px" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
