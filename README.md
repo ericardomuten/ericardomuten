@@ -46,8 +46,9 @@
     <img alt="Windows 10" height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img alt="Ubuntu" height="23px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 - IDEs/Editors<br>
-    <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" height="23px" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
+    <a href="https://jupyter.org/" target="_blank"><img alt="VS Code" height="23px" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" /></a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" height="23px" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
+    <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" height="23px" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
     <a href="https://www.arduino.cc/en/software" target="_blank"><img alt="Arduino" height="23px" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
 
 <div align="center">
