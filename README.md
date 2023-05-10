@@ -12,7 +12,7 @@
 - 📃 Experience
   - 🔭 I'm currently studying as a master's student in [Quantum Science & Technology](https://www.ph.tum.de/academics/msc/qst/qst/?language=en) at Technical University of Munich. I was part of the Quantum Technology Lab at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/ericardomuten/quantum_image_classifier).
   - 👨‍💻 I'm a working student at [Walther-Meißner-Institut (WMI)](https://www.wmi.badw.de/home), developing internal software suites for quantum hardware control and data analysis. This summer I’m joining [IBM Quantum US](https://www.ibm.com/quantum) as quantum software developer intern.<br>
-  - 💼 I previously worked at:
+  - 💼 I previously worked on projects at:
     - [Indonesian National Research and Innovation Agency](https://quantumresearch.id/), [ML4Sci](https://ml4sci.org/) ([Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/4853064678244352/)), [CERN](https://openlab.cern/quantum), and [IBM Quantum Advocate Mentorship Program](https://github.com/qiskit-community/qiskit-advocate-mentorship-program) where I worked on quantum machine learning projects.
     - [GV Lab](http://web.tuat.ac.jp/~gvlab/), [IHI Corporation](https://www.ihi.co.jp/en/), and [Nodeflux](https://www.nodeflux.io/) where I worked on deep learning projects.
 <!--  - <img align="top" alt="Qiskit" width="20px" src="https://github.com/ericardomuten/ericardomuten/blob/main/assets/qiskit.jpg"> 🇮🇩 I'm the first Indonesian [IBM Quantum Qiskit Advocate](https://qiskit.org/advocates/). I founded and lead the [Indonesian Qiskit docs localization team](https://github.com/qiskit-community/qiskit-translations).<br> -->
