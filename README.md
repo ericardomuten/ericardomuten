@@ -11,7 +11,7 @@
 - ⚛️ <img align="top" alt="dnn" width="20px" src="https://github.com/ericardomuten/ericardomuten/blob/main/assets/dnn.png"> Interests: quantum computing, optimization, and machine learning, with hobbies in computational photography and image processing.<br>
 - 📃 Experience
   - 🔭 I'm currently studying as a master's student in [Quantum Science & Technology](https://www.ph.tum.de/academics/msc/qst/qst/?language=en) at Technical University of Munich. I was part of the Quantum Technology Lab at Bandung Institute of Technology, where I finished my [undergraduate thesis](https://github.com/ericardomuten/quantum_image_classifier).
-  - 👨‍💻 I'm working part-time as a research intern at [Infineon Technologies](https://www.infineon.com/cms/en/), researching quantum optimization algorithms.
+  - 👨‍💻 I'm working part-time as a working student at [Infineon Technologies](https://www.infineon.com/cms/en/), researching quantum optimization algorithms.
   - 💡 Last year, I was part of [Venture Lab Quantum Fellowship Program](https://www.tum-venture-labs.de/education/quantum-fellowship-program/), a one-year entrepreneurship training program focusing on quantum applications.
   - 💼 I previously worked on projects at:
     - [IBM Quantum](https://www.ibm.com/quantum), [Walther-Meißner-Institut (WMI)](https://www.wmi.badw.de/home), [Indonesian National Research and Innovation Agency](https://quantumresearch.id/), [ML4Sci](https://ml4sci.org/) ([Google Summer of Code](https://summerofcode.withgoogle.com/archive/2021/projects/4853064678244352/)), and [CERN](https://openlab.cern/quantum) where I worked on quantum computing related projects.
